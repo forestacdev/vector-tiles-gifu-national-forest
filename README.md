@@ -6,7 +6,7 @@
 
 `https://raw.githubusercontent.com/forestacdev/vector-tiles-gifu-nationalforest/main/tiles/{z}/{x}/{y}.pbf`
 
-source-layer: `A45-19_21`
+source-layer: `A4519_21`
 
 最大ズームレベル: 14
 
