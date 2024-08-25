@@ -4,7 +4,7 @@
 
 ## タイル URL
 
-`https://raw.githubusercontent.com/forestacdev/vector-tiles-gifu-national-forest/main/tiles/{z}/{x}/{y}.pbf`
+`https://raw.githubusercontent.com/forestacdev/vector-tiles-gifu-nationalforest/main/tiles/{z}/{x}/{y}.pbf`
 
 source-layer: `A45-19_21`
 
